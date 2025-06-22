@@ -108,7 +108,7 @@ This project demonstrates how machine learning can effectively predict chronic k
 
 ## 📝 Author
 
-**Badri Narayanan**  
+**Badri Narayanan B R**  
 *B.E. Computer Science Engineering Student | ML Enthusiast | Data Analyst*
 
 
